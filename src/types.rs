@@ -11,10 +11,6 @@ pub fn run() {
     let a = 'A';
     println!("Char: {} ", a);
 
-    // String
-    let y = String::from("Bob");
-    println!("String: {} ", y);
-
     // Boolean
     let b : bool = true;
     println!("Bool: {} ", b);
