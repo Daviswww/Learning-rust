@@ -18,4 +18,8 @@ pub fn run() {
     // Array
     let a = [1, 2, 3, 4, 5];
     println!("Array: index0 = {} ", a[0]);
+
+    // Vector
+    let a = Vec![1, 2, 3, 4, 5];
+
 }

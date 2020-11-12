@@ -1,5 +1,3 @@
-mod impls;
-
 fn main() {
-    impls::run();
+    println!("Hello rust");
 }
