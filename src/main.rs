@@ -1,3 +1,5 @@
+mod array;
+
 fn main() {
-    println!("Hello rust");
+    array::run();
 }
