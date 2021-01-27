@@ -1,5 +1,3 @@
-#![allow(dead_code)]
-
 pub fn single_input_string_i32() -> Option<i32> {
     let mut s = String::new();
     let input = std::io::stdin().read_line(&mut s).expect("error read");

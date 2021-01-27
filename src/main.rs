@@ -1,5 +1,5 @@
-mod array;
+mod bin;
 
 fn main() {
-    array::run();
+    print("Hello rust!")
 }

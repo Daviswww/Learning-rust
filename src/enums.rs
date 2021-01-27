@@ -1,5 +1,5 @@
 #![allow(dead_code)]
-mod input;
+mod bin;
 
 #[derive(Debug)]
 struct Point{
